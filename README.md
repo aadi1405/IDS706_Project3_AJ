@@ -2,6 +2,8 @@
 
 ## RESTAURANT APPLICATION
 
+![Blank diagram (2)](https://user-images.githubusercontent.com/67281453/200224551-45610be1-709c-4644-8d38-f237660728f7.png)
+
 ## INTRODUCTION
 
 Goal : To use sql to create a database based on user input, insert to a database, query a database and return useful results to a user.
