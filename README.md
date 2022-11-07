@@ -19,7 +19,7 @@ I created a restaurant application that takes details from the user in order to 
 
 ## MAIN FILES
 
-app.py : The user interface that prompts the user to enter the details about the restaurant\
+['app.py'](https://github.com/nogibjj/IDS706_Project3_AJ/blob/main/Project_Files/Restaurant_app/app.py) : The user interface that prompts the user to enter the details about the restaurant\
 ['database.py'](https://github.com/nogibjj/IDS706_Project3_AJ/blob/main/Project_Files/Restaurant_app/database.py): Contains all the SQL queries and queries the database\
 ['data.db'](https://github.com/nogibjj/IDS706_Project3_AJ/blob/main/Project_Files/Restaurant_app/app.py): The location where the database gets stored upon creation
 
