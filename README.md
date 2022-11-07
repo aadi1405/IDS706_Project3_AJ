@@ -16,19 +16,19 @@ Created my own dataset (User input)
 
 ## QUERIES EXECUTED
 
-1) Add a new restaurant to the database:
-Enter Details of the restaurant to enter a row into the database\
+1) Add a new restaurant to the database:\
+Enter Details of the restaurant to enter a row into the database
 
-2) View all restaurants:
-View all the restaurants in the database including the one inserted\
+2) View all restaurants:\
+View all the restaurants in the database including the one inserted
 
-3) Find a restaurant by Name
-Enter the name of the restaurant to find all details\
+3) Find a restaurant by Name\
+Enter the name of the restaurant to find all details
 
-4) Return restaurant names where employees greater than the number entered
-Enter number of employees to get all the restaurants where the number of employees is greater than the number entered\
+4) Return restaurant names where employees greater than the number entered\
+Enter number of employees to get all the restaurants where the number of employees is greater than the number entered
 
-5) Exit
+5) Exit\
 Exit the menu
 
 ## MAIN FILES
