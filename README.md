@@ -8,6 +8,9 @@ Goal : To use sql to create a database based on user input, insert to a database
 
 I created a restaurant application that takes details from the user in order to create a restaurant database. The required details are - Restaurant Name, Restaurant ID, Restaurant Cuisine, Number of Employees.
 
+## DATASET USED
+Created my own dataset (User input)
+
 
 ## QUERIES EXECUTED
 
