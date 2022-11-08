@@ -10,7 +10,7 @@ format:
 	black  *.py
 	
 lint:
-	pylint --disable=R,C *.py
+	pylint --disable=R,C,W0622 *.py
 
 
 
