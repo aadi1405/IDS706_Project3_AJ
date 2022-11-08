@@ -9,6 +9,7 @@ format:
 	black *.py Restaurant_app/*.py
 
 lint:
-	pylint --disable=R,C --ignore-patterns=test_.*?py *.py dblib/*.py
+	pylint --disable=R,C --ignore-patterns=test_.*?py *.py Restaurant_app/*.py
 
 all: install lint test
+
