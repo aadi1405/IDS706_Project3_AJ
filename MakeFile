@@ -6,10 +6,9 @@ test:
 	python -m pytest -vv test_*.py
 
 format:	
-	black *.py Restaurant_app/*.py
+	black *.py dblib/*.py
 
 lint:
-	pylint --disable=R,C --ignore-patterns=test_.*?py *.py Restaurant_app/*.py
+	pylint --disable=R,C --ignore-patterns=test_.*?py *.py dblib/*.py
 
 all: install lint test
-
