@@ -11,5 +11,4 @@ fastapi
 uvicorn[standard]
 pandasql
 tabulate
-psycopg2.extras
 pandas
