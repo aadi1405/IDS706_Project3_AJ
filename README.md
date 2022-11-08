@@ -2,6 +2,7 @@
 
 ## RESTAURANT APPLICATION
 
+
 ![Blank diagram (3)](https://user-images.githubusercontent.com/67281453/200224707-557506e7-f984-4eca-91e2-3be629d103b3.png)
 
 ## INTRODUCTION
