@@ -7,7 +7,7 @@ install-azure:
 		pip install -r requirements-azure.txt
 
 format:
-	black Project_Files/Restaurant_app/ *.py
+	black  *.py
 
 
 
